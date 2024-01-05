@@ -138,3 +138,21 @@ main{
     text-align: center;
     margin-top: 50px;
 }
+
+/*footer style*/
+footer{
+    display: flex;
+    color: #6f3131;
+   padding: 130px 200px;
+}
+.contact input,textarea{
+    display: block;
+    margin-bottom: 25px;
+    padding: 18px 35px;
+    color: #757575;
+    border-radius: 5px;
+    border: 10px;
+    width: 20%;
+    
+}
+.contact
